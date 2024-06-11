@@ -1,6 +1,6 @@
 <template>
   <div>
-    <Message :msg="msg" v-show="msg"/>
+    <Message :msg="msg" v-show="msg" />
     <div>
       <form id="burger-form" @submit="createBurger">
         <div class="input-container">
@@ -110,9 +110,9 @@ export default {
 
       const res = await req.json();
 
-      this.msg = 'Pedido realizado com sucesso!'
+      this.msg = "Pedido realizado com sucesso!";
 
-      setTimeout(() => this.msg = '', 3000)
+      setTimeout(() => (this.msg = ""), 3000);
 
       this.name = "";
       this.bread = "";

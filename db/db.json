@@ -79,53 +79,67 @@
   ],
   "burgers": [
     {
-      "id": "711d",
-      "name": "Rachel Albuquerque da Silva",
+      "id": "711e",
+      "name": "Harry Dogger",
+      "bread": "Italiano Branco",
+      "meat": "Maminha",
+      "optional": [
+        "Bacon",
+        "Salame"
+      ],
+      "status": "Em produção"
+    },
+    {
+      "id": "6fbb",
+      "name": "Rachel Albuquerque",
+      "bread": "3 Queijos",
+      "meat": "Maminha",
+      "optional": [
+        "Cebola roxa"
+      ],
+      "status": "Finalizado"
+    },
+    {
+      "id": "2f90",
+      "name": "Jesus Cristo",
       "bread": "3 Queijos",
       "meat": "Alcatra",
       "optional": [
-        "Cebola roxa",
         "Salame"
       ],
       "status": "Solicitado"
     },
     {
-      "id": "820a",
-      "name": "Harry Dogger",
-      "bread": "Parmesão e Orégano",
+      "id": "8152",
+      "name": "Antônio Morrendo das Dores",
+      "bread": "3 Queijos",
       "meat": "Maminha",
       "optional": [
-        "Cheddar",
         "Cebola roxa"
       ],
       "status": "Solicitado"
     },
     {
-      "id": "36de",
-      "name": "Harry Dogger",
+      "id": "4bcd",
+      "name": "Fulano de tal",
       "bread": "Italiano Branco",
-      "meat": "Maminha",
+      "meat": "Veggie burger",
       "optional": [
-        "Bacon"
+        "Tomate"
       ],
       "status": "Solicitado"
     },
     {
-      "id": "0280",
-      "name": "Harry Dogger",
+      "id": "2b80",
+      "name": "abacadabra da silva",
       "bread": "Italiano Branco",
       "meat": "Maminha",
       "optional": [
-        "Salame"
-      ],
-      "status": "Solicitado"
-    },
-    {
-      "id": "3dfa",
-      "name": "Harry Dogger",
-      "bread": "Italiano Branco",
-      "meat": "Maminha",
-      "optional": [
+        "Cheddar",
+        "Tomate",
+        "Pepino",
+        "Cebola roxa",
+        "Salame",
         "Bacon"
       ],
       "status": "Solicitado"
